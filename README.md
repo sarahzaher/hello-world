@@ -9,8 +9,8 @@
   </title>
    <style>
   body {
-  background.colour:green;
-  text.align:center; 
+  background_color:green;
+  text_align:center; 
  
   </style>
   </head>
