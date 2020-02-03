@@ -11,7 +11,7 @@
   body {
   background_color:green;
   text_align:center; 
- 
+ }
   </style>
   </head>
   
