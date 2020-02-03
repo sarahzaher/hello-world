@@ -12,7 +12,7 @@
   background.colour:green;
   text.align:center; 
  
-  </style)
+  </style>
   </head>
   
   <body>
