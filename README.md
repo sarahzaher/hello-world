@@ -1,4 +1,5 @@
 # hello-world
+text.align:center;
 
 <html>
   <title>
