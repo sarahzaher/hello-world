@@ -1,5 +1,5 @@
 # hello-world
-text.align:center;
+
 
 <html>
   <title>
@@ -9,13 +9,14 @@ text.align:center;
   <body>
   <h1>this is my first website</h1>
   <p>i'm here to guide you through this wonderful journey</p>
+  
   </body>
   
   <style>
-  body ( 
+  body {
   background.colour:green;
   text.align:center; 
-  )
+ }
   </style)
   
   </html>
